@@ -91,6 +91,12 @@ The root/parent node is visited first then the left child/subtree and finally th
 The left child/subtree is visited first followed by the right child/subtree and lastly the root/parent(L R rt).
 
 
+# links
+[Trees in Data Structure](https://www.youtube.com/watch?v=1-l_UOFi1Xw&t=5s)
+
+
+
+
 
 
 
